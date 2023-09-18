@@ -5,4 +5,4 @@
 ##### Data analysys tools: SQL, Excell <br>Programmimg Languages and Libraries: Python, Pandas, Math<br> Database Managment Systems: MySQL, PostgreSQL <br> Data Vizualization tools: PowerBi, Matplotlib, Seaborn < Machine Learning Tools <br> Machine Learning Tools: Scikit-learn, TensorFlow
 #### PROJECTS
 ##### Project 1: Unit Economics Calculator
-
+##### Topic 1
