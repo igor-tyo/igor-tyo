@@ -4,6 +4,6 @@
 #### SKILLS AND TECHLOGIES
 ##### Data analysys tools: SQL, Excell
 ##### <p>Programmimg Languages and Libraries: Python, Pandas, Math<br> 
-##### Database Managment Systems: MySQL, PostgreSQL
+##### Database Managment Systems: MySQL, PostgreSQL<p/>
 ##### Data Vizualization tools: PowerBi, Matplotlib, Seaborn
 ##### Machine Learning Tools
